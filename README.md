@@ -1,6 +1,6 @@
 #This is a practical learning guide for C programming
 
-we will be using various online resources and also books in this learning journy.
+we will be using various online resources and also books in this learning journey.
 "Sams teach yourself C in 24hrs" will also be used extensively.
 Please be my guest in this sweet and romatic journey in learning C
 
