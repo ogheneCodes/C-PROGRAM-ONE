@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include<stdlib.h>
 /* A voting system
-
+understand we can also have multiple if statment even without else. 
 
 */
 
