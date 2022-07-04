@@ -5,7 +5,7 @@ odd number from 1 to 100
 */
 
 int main(){
-int num = 0;
+int num = 1;
 
 for (int i = 1; i < 10; i = i+1)
 {
