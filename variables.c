@@ -19,7 +19,7 @@ int main()
     /*changing a code */
     letter = 'B';
     number = 45;
-    name []= "oghene";
+    int name[6] = 'oghene';
     printf("This is a variable string of text named using char for:  %c", letter);
     printf("\n This is a variable type of number using int for: %d", number);
     printf("\n");

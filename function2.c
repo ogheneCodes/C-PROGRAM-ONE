@@ -5,7 +5,7 @@ taskes two numbers
 performs the multiplication of two numbers
 returns the result
 */
-
+// Note to return a local variable you should not use void
 int takes()
 {
     int number1;

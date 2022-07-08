@@ -6,7 +6,7 @@ using while loop for arithemetic
 
 int main(){
     int number;
-    printf("Enter a Number you want to calculate: ");
+    printf("Enter a Number you want to multiply: ");
     scanf("%d", &number);
 
     int count = 1;
