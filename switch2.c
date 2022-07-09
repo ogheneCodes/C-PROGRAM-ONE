@@ -7,6 +7,7 @@ int main(){
     int months;
     printf("Enter a number from 1 - 12 to get a month:   ");
     scanf("%d", &months);
+   // months = getchar();
 
     switch (months)
     {
